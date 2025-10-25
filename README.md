@@ -110,7 +110,3 @@ rm -rf ~/Library/Containers/com.example.CalendarNotes
 - `Note.content` uses external storage for large rich-text blobs — no changes needed to build or run.
 
 ---
-
-If you want, I can also:
-- Add a small script (`scripts/build-and-run.sh`) to automate the command-line build and launch steps.
-- Add a short contributors' guide showing how to sign builds for distribution.
